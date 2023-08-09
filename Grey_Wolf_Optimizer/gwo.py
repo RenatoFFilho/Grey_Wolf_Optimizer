@@ -110,7 +110,6 @@ class Grey_Wolf_Optimizer:
             self.fitness = fitness  # Atribuir o array fitness à variável self.fitness
             return fitness
 
-            return fitness
         else:
             pass  
 

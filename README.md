@@ -12,6 +12,7 @@ Welcome to the Grey Wolf Optimizer (GWO) Python Implementation repository! This 
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## About
@@ -89,6 +90,10 @@ Before contributing, make sure to:
 5. Open a pull request and provide a clear description of your changes.
 
 Thank you for contributing to the Grey Wolf Optimizer Python Implementation!
+
+## Contact
+
+If you have any questions, suggestions, or would like to collaborate, please reach out to me via [email](mailto:renato.luiz@engenharia.ufjf.br) or connect with me on [LinkedIn](https://www.linkedin.com/in/renato-faraco/).
 
 ## License
 
